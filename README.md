@@ -1,6 +1,6 @@
 # Woodcutter
 
-Version: v4
+Version: 4.0
 
 Minecraft: 1.19 > 1.19.3
 
