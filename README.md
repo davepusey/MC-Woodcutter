@@ -18,12 +18,12 @@ Minecraft: 1.19 > 1.19.3
 
 ## Recipes
 
-![Logs cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/blob/main/images/logs.jpg)
+![Logs cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/logs.jpg)
 
-![Planks cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/blob/main/images/planks.jpg)
+![Planks cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/planks.jpg)
 
-![Stairs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/blob/main/images/stairs.jpg)
+![Stairs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/stairs.jpg)
 
-![Fences to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/blob/main/images/fences.jpg)
+![Fences to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/fences.jpg)
 
-![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/blob/main/images/slabs.jpg)
+![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.jpg)
