@@ -13,10 +13,10 @@ Minecraft: 1.20
 ![Jungle](https://download.topazdev.fr/projets/datapack/woodcutter/buche_acajou-32.png)
 ![Acacia](https://download.topazdev.fr/projets/datapack/woodcutter/buche_acacia-32.png)
 ![Mangrove](https://download.topazdev.fr/projets/datapack/woodcutter/buche_mangrove-32.png)
+![Cherry](https://download.topazdev.fr/projets/datapack/woodcutter/buche_cherry-32.png)
+![Bamboo](https://download.topazdev.fr/projets/datapack/woodcutter/block_bamboo-32.png)
 ![Crimson](https://download.topazdev.fr/projets/datapack/woodcutter/crimson_stem-32.png)
 ![Warped](https://download.topazdev.fr/projets/datapack/woodcutter/warped_stem-32.png)
-![Bamboo](https://download.topazdev.fr/projets/datapack/woodcutter/block_bamboo-32.png)
-![Cherry](https://download.topazdev.fr/projets/datapack/woodcutter/buche_cherry-32.png)
 
 ## Recipes
 
