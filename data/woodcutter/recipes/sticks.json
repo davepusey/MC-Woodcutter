@@ -27,6 +27,12 @@
     },
     {
     "item": "minecraft:warped_planks"
+    },
+    {
+    "item": "minecraft:cherry_planks"
+    },
+    {
+    "item": "minecraft:bamboo_planks"
     }
   ],
   "result": "minecraft:stick",
