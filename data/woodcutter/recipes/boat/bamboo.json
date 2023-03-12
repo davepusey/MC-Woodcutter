@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+	{
+		"item": "minecraft:bamboo_planks"
+	},
+	{
+		"item": "minecraft:bamboo_chest_raft"
+	}
+	],
+  "result": "minecraft:bamboo_raft",
+  "group": "cutting_boats",
+  "count": 1
+}
