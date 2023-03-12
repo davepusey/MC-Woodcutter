@@ -24,6 +24,12 @@
     },
     {
     "item": "minecraft:warped_sign"
+    },
+    {
+    "item": "minecraft:warped_hanging_sign"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:warped_planks",

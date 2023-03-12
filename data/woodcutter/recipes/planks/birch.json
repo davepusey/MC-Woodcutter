@@ -26,7 +26,13 @@
     "item": "minecraft:birch_sign"
     },
     {
+    "item": "minecraft:birch_hanging_sign"
+    },
+    {
     "item": "minecraft:birch_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:birch_planks",

@@ -26,7 +26,13 @@
     "item": "minecraft:oak_sign"
     },
     {
+    "item": "minecraft:oak_hanging_sign"
+    },
+    {
     "item": "minecraft:oak_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:oak_planks",
