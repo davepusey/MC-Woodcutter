@@ -20,12 +20,14 @@ Minecraft: 1.20
 
 ## Recipes
 
-![Logs cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/logs.jpg)
+![Logs cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/logs.png)
 
-![Planks cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/planks.jpg)
+![Planks cutting](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/planks.png)
 
-![Stairs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/stairs.jpg)
+![Planks cutting part 2](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/planks2.png)
 
-![Fences to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/fences.jpg)
+![Stairs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/stairs.png)
 
-![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.jpg)
+![Fences to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/fences.png)
+
+![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.png)
