@@ -6,17 +6,17 @@ Minecraft: 1.20
 
 
 ### **Use the stonecutter as a woodcutter!**
-![Oak](https://dl.topazdev.fr/images/datapack/woodcutter/buche_chene-32.png)
-![Dark Oak](https://dl.topazdev.fr/images/datapack/woodcutter/buche_chene_noir-32.png)
-![Birch](https://dl.topazdev.fr/images/datapack/woodcutter/buche_bouleau-32.png)
-![Spruce](https://dl.topazdev.fr/images/datapack/woodcutter/buche_sapin-32.png)
-![Jungle](https://dl.topazdev.fr/images/datapack/woodcutter/buche_acajou-32.png)
-![Acacia](https://dl.topazdev.fr/images/datapack/woodcutter/buche_acacia-32.png)
-![Mangrove](https://dl.topazdev.fr/images/datapack/woodcutter/buche_mangrove-32.png)
-![Cherry](https://dl.topazdev.fr/images/datapack/woodcutter/buche_cherry-32.png)
-![Bamboo](https://dl.topazdev.fr/images/datapack/woodcutter/block_bamboo-32.png)
-![Crimson](https://dl.topazdev.fr/images/datapack/woodcutter/crimson_stem-32.png)
-![Warped](https://dl.topazdev.fr/images/datapack/woodcutter/warped_stem-32.png)
+![Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene-32.png)
+![Dark Oak](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_chene_noir-32.png)
+![Birch](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_bouleau-32.png)
+![Spruce](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_sapin-32.png)
+![Jungle](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_acajou-32.png)
+![Acacia](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_acacia-32.png)
+![Mangrove](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_mangrove-32.png)
+![Cherry](https://dl.topazdev.fr/stock/images/datapack/woodcutter/buche_cherry-32.png)
+![Bamboo](https://dl.topazdev.fr/stock/images/datapack/woodcutter/block_bamboo-32.png)
+![Crimson](https://dl.topazdev.fr/stock/images/datapack/woodcutter/crimson_stem-32.png)
+![Warped](https://dl.topazdev.fr/stock/images/datapack/woodcutter/warped_stem-32.png)
 
 ## Recipes
 
