@@ -26,7 +26,13 @@
     "item": "minecraft:mangrove_sign"
     },
     {
+    "item": "minecraft:mangrove_hanging_sign"
+    },
+    {
     "item": "minecraft:mangrove_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:mangrove_planks",

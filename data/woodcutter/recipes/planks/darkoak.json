@@ -26,7 +26,13 @@
     "item": "minecraft:dark_oak_sign"
     },
     {
+    "item": "minecraft:dark_oak_hanging_sign"
+    },
+    {
     "item": "minecraft:dark_oak_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:dark_oak_planks",

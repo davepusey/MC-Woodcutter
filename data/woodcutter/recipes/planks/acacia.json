@@ -4,7 +4,7 @@
     {
     "item": "minecraft:acacia_fence"
     },
-		{
+    {
     "item": "minecraft:acacia_fence_gate"
     },
     {
@@ -26,7 +26,13 @@
     "item": "minecraft:acacia_sign"
     },
     {
+    "item": "minecraft:acacia_hanging_sign"
+    },
+    {
     "item": "minecraft:acacia_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:acacia_planks",

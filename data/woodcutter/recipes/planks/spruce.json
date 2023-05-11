@@ -26,7 +26,13 @@
     "item": "minecraft:spruce_sign"
     },
     {
+    "item": "minecraft:spruce_hanging_sign"
+    },
+    {
     "item": "minecraft:spruce_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:spruce_planks",

@@ -26,7 +26,13 @@
     "item": "minecraft:jungle_sign"
     },
     {
+    "item": "minecraft:jungle_hanging_sign"
+    },
+    {
     "item": "minecraft:jungle_boat"
+    },
+    {
+    "item": "minecraft:chiseled_bookshelf"
     }
   ],
   "result": "minecraft:jungle_planks",
