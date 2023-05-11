@@ -31,8 +31,6 @@ Minecraft: 1.20
 
 ![Stairs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/stairs.png)
 
-![Fences to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/fences.png)
-
 ![Boat to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/boat.png)
 
 ![Slabs to planks](https://raw.githubusercontent.com/Azerxim/MC-Woodcutter/main/images/slabs.png)
