@@ -1,9 +1,0 @@
-{
-  "type": "minecraft:stonecutting",
-  "ingredient": {
-    "item": "minecraft:warped_planks"
-  },
-  "result": "minecraft:warped_hanging_sign",
-  "group": "cutting_hanging_signs",
-  "count": 1
-}
